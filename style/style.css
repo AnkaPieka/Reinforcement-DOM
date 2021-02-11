@@ -4,13 +4,13 @@
   box-sizing: border-box;
 }
 
-#Tabs {
+#tabs {
   display: flex;
   align-items: center;
   justify-content: space-around;
 }
 
-#Tabs button {
+#tabs button {
   background: none;
   color: inherit;
   border: none;

@@ -1,8 +1,17 @@
 //find all element with "tab" class and have it as a NodeList
+let tab = document.querySelectorAll('.tab');
+console.log(tab);
 
 //find all element with "Page" class and have it as a NodeList
+let page = document.querySelectorAll('.Page');
+console.log(page);
 
 //create a function named render
+
+function render(event) {
+    
+}
+
 //taking 1 argument "event"
     //in render function
 // in render find the element of the event
